@@ -26,3 +26,20 @@
 #### 4. Save the final as Textfile with two fields
 
       entry_code|Status
+      
+
+### Q3. We need to find out the top 2 people who has the highest weight(in kgs).
+
+#### Input:
+           
+             Name|Weight
+             Roy|55
+             Mary|60
+             Tom|65
+             Ashish|70
+             Deepak|85
+
+#### Output:
+ 
+             Deepak
+             Ashish

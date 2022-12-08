@@ -1,6 +1,6 @@
 ## Pyspark_Practice
 
-### Q1. Write a script for the below scenario either in PySpark (or) Spark Scala. 
+### Q1. Write a script for the below scenario either in PySpark (or) Spark Scala, refer assignment.txt
 
 #### 1. Read the input testfile (Pipe delimited) provided as a "Spark RDD" 
 
@@ -15,7 +15,7 @@
      Property_ID|Location|Final_Price
      
 
-### Q2. Write a script for the below scenario either in PySpark (or) Spark Scala. 
+### Q2. Write a script for the below scenario either in PySpark (or) Spark Scala, refer assignment.txt
 
 #### 1. Read the input testfile (Pipe delimited) provided as a "Spark RDD" 
 

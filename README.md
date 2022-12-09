@@ -43,3 +43,22 @@
  
              Deepak
              Ashish
+             
+             
+ ### Q4. We need to find out the people whose weight is greater than 60(in kgs).
+ 
+ #### Input:
+           
+             Name|Weight
+             Roy|55
+             Mary|60
+             Tom|65
+             Ashish|70
+             Deepak|85
+             
+ #### Output:
+ 
+             Deepak
+             Ashish
+             Tom
+ 

@@ -62,3 +62,17 @@
              Ashish
              Tom
  
+### Q5. We need to find out the person with the second highest weight.
+
+#### Input:
+           
+             Name|Weight
+             Roy|55
+             Mary|60
+             Tom|65
+             Ashish|70
+             Deepak|85
+             
+ #### Output:
+          
+          Ashish

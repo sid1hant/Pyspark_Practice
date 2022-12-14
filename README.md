@@ -76,3 +76,25 @@
  #### Output:
           
           Ashish
+
+
+### Q6. Given the csv file has 3 columns Name, Age and hobbies are seperated by comma(,)
+
+#### 1. Hobbies field can have 1 or more values separated by hyphen(-)
+
+#### 2.Each employee can have only 1 record in this file
+
+#### 3. Read the csv file using Spark API and convert each row into mutiple rows based on hobbies
+
+
+#### Input:      
+            Name, Age,hobbies
+            Chandrali,28,singing-dancing-reading
+
+
+#### Output
+
+            Name, Age,hobbies
+            Chandrali,28,singing
+            Chandrali,28,dancing
+            Chandrali,28,reading
